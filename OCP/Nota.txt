@@ -1,1 +1,3 @@
-﻿
+﻿Open Closed Principle (OCP)
+===========================
+Las clases deben estar abiertas a extensión, pero cerradas a modificación.
