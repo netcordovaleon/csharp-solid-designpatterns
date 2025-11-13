@@ -18,6 +18,8 @@ D = Dependency Inversion Principle (DIP)
 
 ```
 Creational Patterns
+- Factory
+- Builder
 Structural Patterns
 Behavioral Patterns
 ```
