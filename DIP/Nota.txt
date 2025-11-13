@@ -1,0 +1,3 @@
+﻿Dependency Inversion Principle (DIP)
+====================================
+Las clases deben depender de abstracciones, no de concreciones.

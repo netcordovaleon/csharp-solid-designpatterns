@@ -1,0 +1,3 @@
+﻿Single Responsibility Principle (SRP)
+====================================
+Una clase debe tener una sola razón para cambiar.

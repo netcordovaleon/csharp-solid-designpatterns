@@ -1,0 +1,3 @@
+﻿Interface Segregation Principle (ISP)
+=====================================
+Los clientes no deben depender de interfaces que no usan.
