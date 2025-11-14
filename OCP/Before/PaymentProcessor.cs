@@ -7,10 +7,22 @@
         {
             if (type == "CreditCard") { 
                 // Logica para procesar pago con tarjeta de credito
+                /*
+                 
+                 Conectarte BD
+                 Obtener informcion
+                 Grabar
+                 */
                 Console.WriteLine("Procesando pago con tarjeta de crédito");
             }
             else if (type == "Paypal") { 
                 // Logica para procesar pago con Paypal
+                /*
+                 
+                 Conectarte BD
+                 Obtener informcion
+                 Grabar
+                 */
                 Console.WriteLine("Procesando pago con PayPal");
             }
         }
